@@ -1,2 +1,2 @@
 # Git-learn
-对于Githun和git的学习
+对于Github和Git的学习
